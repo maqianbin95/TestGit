@@ -1,7 +1,7 @@
 package com.mqb.git;
 
 public class Hello {
-	private void syso() {
+	public static void main(String[] args) {
 		System.out.println("hello...3333333");
 	}
 }
